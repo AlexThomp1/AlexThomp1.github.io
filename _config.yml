@@ -8,7 +8,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   Bachelor of Science in Computer-Science (class of 2024)
   <br /><br />
   <a href="https://alexthomp1.github.io/pdf/Alex_Thompson_Resume.pdf">View My Resume</a>
-  <br /><br />
+#  <br /><br />
 #  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
 repository: "AlexThomp1/AlexThomp1.github.io"
 github_username:  AlexThomp1 # update with your username
