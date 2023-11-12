@@ -1,28 +1,36 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Coffee Inventory Manager
 ===============
 
--   **Class:** 
+-   **Class: CSCI 325 (Object Oriented Programming)** 
 -   **Grade:** 
--   **Language(s):** 
+-   **Language(s): Java** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:amthompson1@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The project involved creating a program with a team using a UI with the Java programming language.
+The program created is a "Coffee Inventory Manager", which is a management systems used for coffee inventory warehouses to keep track of coffee types, keep track of customers, and ship/bill customers for the coffee.
+This program includes the features of:
+- Adding Coffee Types
+- Editing Coffee Types
+- Removing Coffee Types
+- Adding Customers
+- Editing Customers
+- Removing Customers
+- Billing Customers
+- Shipping Coffee
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+How to run the program.
 
 ```bash
-cd ./project
-python setup.py
+Have the latest Java version installed
+Double-click "CoffeeInventoryManager.jar"
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
