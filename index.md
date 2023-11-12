@@ -4,25 +4,25 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:amthompson1@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Coffee Inventory Manager (Java) | CSCI 325](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Balanced Binary Tree Performance Display (C++) | CSCI 315](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Random Number Guessing Game (Perl) | CSCI 301](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Shortest Path Algorithm from Input File (C++) | CSCI 415](project1)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [The Horrors of Unreliable Code](/pdf/sample_presentation.pdf)
 
--   **Class:**  
+-   **Class: CSCI 315 (Data Structures)**  
 -   **Grade:**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [The Ethical Responsibilities of a Professional](/pdf/sample_presentation.pdf)
 
--   **Class:** 
+-   **Class: CSCI 325 (Object Oriented Programming)** 
 -   **Grade:**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [The Anonymous Privacy of a Society](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 415 (Algorithms)** 
+-   **Grade: 100**
 
 ---
 
@@ -53,7 +53,7 @@ Presentations
 
 ### [Presentation 1 Title](/pdf/sample_presentation.pdf)
 
-- **Class:** 
+- **Class: CSCI 431 (Operating Systems)** 
 - **Grade:**
 
 
