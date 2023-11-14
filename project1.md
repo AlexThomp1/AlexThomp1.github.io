@@ -37,7 +37,12 @@ Double-click "CoffeeInventoryManager.jar"
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
-The program after launch asks the user to enter a password (see Fig 1.), and once the correct password is entered, a menu of options are displayed (see Fig 2.). The user types one of the options displayed, which is usually done from top to bottom. If the user types "Add Customer", they are prompted to enter the customer name (see Fig 3.). If the user types "Add Coffee", they are prompted to enter the customer name (see Fig 4.) and other information asked related to the coffee. If the user types "Edit Customer", they are prompted with options to edit the customer's name and remove the customer (see Fig 5.). If the user types "Edit Coffee", they are able to choose which attribute of the coffee they want to edit (see Fig 6.). If the user types "Ship Coffee", they are able to type the customer name and the coffee type with amount to ship (see Fig 7.). If the user types "Bill Customer", they are able to see the details of the coffee they previously shipped (see Fig 8.), and able to "print" the receipt of the shipment (see Fig 9.).
+The program after launch asks the user to enter a password (see Fig 1.), and once the correct password is entered, a menu of options are displayed (see Fig 2.). The user types one of the options displayed, which is usually done from top to bottom. 
+If the user types "Add Customer", they are prompted to enter the customer name (see Fig 3.). If the user types "Add Coffee", they are prompted to enter the customer name (see Fig 4.) and other information asked related to the coffee. 
+If the user types "Edit Customer", they are prompted with options to edit the customer's name and remove the customer (see Fig 5.). 
+If the user types "Edit Coffee", they are able to choose which attribute of the coffee they want to edit (see Fig 6.). 
+If the user types "Ship Coffee", they are able to type the customer name and the coffee type with amount to ship (see Fig 7.). 
+If the user types "Bill Customer", they are able to see the details of the coffee they previously shipped (see Fig 8.), and able to "print" the receipt of the shipment (see Fig 9.).
 
 ![screenshot](images/project1/coffee_password.png)  
 Fig 1. The password screen on launch
@@ -63,7 +68,7 @@ Fig 7. The "Ship Coffee" option asking for the customer name
 ![screenshot](images/project1/coffee_bill.png)  
 Fig 8. The "Bill Customer" option showing the total weight of the coffee shipment for the customer
 
-![screenshot](images/project1/coffee_receipt.png)  
+![screenshot](images/project1/coffee_reciept.png)  
 Fig 9. The "Bill Customer" option giving the receipt of the shipment
 
 ## 3. Additional Considerations
