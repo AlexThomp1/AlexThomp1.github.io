@@ -37,21 +37,37 @@ Double-click "CoffeeInventoryManager.jar"
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+The program after launch asks the user to enter a password (see Fig 1.), and once the correct password is entered, a menu of options are displayed (see Fig 2.). The user types one of the options displayed, which is usually done from top to bottom. If the user types "Add Customer", they are prompted to enter the customer name (see Fig 3.). If the user types "Add Coffee", they are prompted to enter the customer name (see Fig 4.) and other information asked related to the coffee. If the user types "Edit Customer", they are prompted with options to edit the customer's name and remove the customer (see Fig 5.). If the user types "Edit Coffee", they are able to choose which attribute of the coffee they want to edit (see Fig 6.). If the user types "Ship Coffee", they are able to type the customer name and the coffee type with amount to ship (see Fig 7.). If the user types "Bill Customer", they are able to see the details of the coffee they previously shipped (see Fig 8.), and able to "print" the receipt of the shipment (see Fig 9.).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/coffee_password.png)  
+Fig 1. The password screen on launch
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/coffee_menmu.png)  
+Fig 2. The menu of options the user can type
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/coffee_addcust.png)  
+Fig 3. The "Add Customer" option asking for the customer name
+
+![screenshot](images/coffee_addcoffee.png)  
+Fig 4. The "Add Coffee" option asking for the customer name
+
+![screenshot](images/coffee_edit1.png)  
+Fig 5. The "Edit Customer" option asking for the user to type "Edit Customer Name" or "Remove Customer"
+
+![screenshot](images/coffee_edit3.png)  
+Fig 6. The "Edit Coffee" option showing the avaliable attributes to edit
+
+![screenshot](images/coffee_ship.png)  
+Fig 7. The "Ship Coffee" option asking for the customer name
+
+![screenshot](images/coffee_bill.png)  
+Fig 8. The "Bill Customer" option showing the total weight of the coffee shipment for the customer
+
+![screenshot](images/coffee_receipt.png)  
+Fig 9. The "Bill Customer" option giving the receipt of the shipment
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This project was a collaborative group project with Alex Thompson, Samuel Shelley, Tanner Hicks, and Kyle Gimple. The parts I was tasked to work on is the Customer class, Edit Customer functionalities, and combining all of the seperate code into a final product.
 
 [Back to Portfolio](./)
