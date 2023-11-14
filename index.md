@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Balanced Binary Tree Performance Display (C++) | CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/project2/project2_graphs.png)
 
 ---
 ### [Random Number Guessing Game (Perl) | CSCI 301](project3)
