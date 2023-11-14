@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Coffee Inventory Manager (Java) | CSCI 325](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/project1/coffee_menmu.png)
 
 ---
 ### [Balanced Binary Tree Performance Display (C++) | CSCI 315](project2)
