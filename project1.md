@@ -39,31 +39,31 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 The program after launch asks the user to enter a password (see Fig 1.), and once the correct password is entered, a menu of options are displayed (see Fig 2.). The user types one of the options displayed, which is usually done from top to bottom. If the user types "Add Customer", they are prompted to enter the customer name (see Fig 3.). If the user types "Add Coffee", they are prompted to enter the customer name (see Fig 4.) and other information asked related to the coffee. If the user types "Edit Customer", they are prompted with options to edit the customer's name and remove the customer (see Fig 5.). If the user types "Edit Coffee", they are able to choose which attribute of the coffee they want to edit (see Fig 6.). If the user types "Ship Coffee", they are able to type the customer name and the coffee type with amount to ship (see Fig 7.). If the user types "Bill Customer", they are able to see the details of the coffee they previously shipped (see Fig 8.), and able to "print" the receipt of the shipment (see Fig 9.).
 
-![screenshot](images/coffee_password.png)  
+![screenshot](images/project1/coffee_password.png)  
 Fig 1. The password screen on launch
 
-![screenshot](images/coffee_menmu.png)  
+![screenshot](images/project1/coffee_menmu.png)  
 Fig 2. The menu of options the user can type
 
-![screenshot](images/coffee_addcust.png)  
+![screenshot](images/project1/coffee_addcust.png)  
 Fig 3. The "Add Customer" option asking for the customer name
 
-![screenshot](images/coffee_addcoffee.png)  
+![screenshot](images/project1/coffee_addcoffee.png)  
 Fig 4. The "Add Coffee" option asking for the customer name
 
-![screenshot](images/coffee_edit1.png)  
+![screenshot](images/project1/coffee_edit1.png)  
 Fig 5. The "Edit Customer" option asking for the user to type "Edit Customer Name" or "Remove Customer"
 
-![screenshot](images/coffee_edit3.png)  
+![screenshot](images/project1/coffee_edit3.png)  
 Fig 6. The "Edit Coffee" option showing the avaliable attributes to edit
 
-![screenshot](images/coffee_ship.png)  
+![screenshot](images/project1/coffee_ship.png)  
 Fig 7. The "Ship Coffee" option asking for the customer name
 
-![screenshot](images/coffee_bill.png)  
+![screenshot](images/project1/coffee_bill.png)  
 Fig 8. The "Bill Customer" option showing the total weight of the coffee shipment for the customer
 
-![screenshot](images/coffee_receipt.png)  
+![screenshot](images/project1/coffee_receipt.png)  
 Fig 9. The "Bill Customer" option giving the receipt of the shipment
 
 ## 3. Additional Considerations
