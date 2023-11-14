@@ -22,6 +22,7 @@ This program includes the features of:
 - Removing Customers
 - Billing Customers
 - Shipping Coffee
+- Simple Password Protection for Program
 
 ## How to compile and run the program
 
