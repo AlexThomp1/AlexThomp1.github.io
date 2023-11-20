@@ -25,6 +25,8 @@ This program includes the features of:
 - Shipping Coffee
 - Simple Password Protection for Program
 
+This project was a collaborative group project with Alex Thompson, Samuel Shelley, Tanner Hicks, and Kyle Gimple.
+
 ## How to run the program
 
 - Have the latest Java version installed
@@ -73,6 +75,6 @@ Fig 9. The "Bill Customer" option giving the receipt of the shipment
 
 ## 3. Additional Considerations
 
-This project was a collaborative group project with Alex Thompson, Samuel Shelley, Tanner Hicks, and Kyle Gimple. The parts I was tasked to work on is the Customer class, Edit Customer functionalities, and combining all of the seperate code into a final product.
+The parts I was tasked to work on is the Customer class, Edit Customer functionalities, and combining all of the seperate code into a final product.
 
 [Back to Portfolio](./)
