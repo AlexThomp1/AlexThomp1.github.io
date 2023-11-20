@@ -6,7 +6,7 @@ Balanced Binary Tree Performance Display
 -   **Class: CSCI 315 (Data Structures)** 
 -   **Grade: 100** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [Link to Respository]([https://github.com/AlexThomp1/BalancedBinaryTreeDisplay])  
+-   **Source Code Repository:** [Link to Respository](https://github.com/AlexThomp1/BalancedBinaryTreeDisplay)  
     (Please [email me](mailto:amthompson1@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
