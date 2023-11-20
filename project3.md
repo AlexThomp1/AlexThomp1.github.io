@@ -22,7 +22,7 @@ This program includes the features of:
 
 Option 1:
 
-- Install Perl(https://www.perl.org/get.html).
+- Install [Perl](https://www.perl.org/get.html).
 ```bash
 perl GuessingGame.pl
 ```
