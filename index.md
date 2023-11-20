@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Shortest Path Algorithm from Input File (C++) | CSCI 415](project1)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/project4/project4_display.png)
 
 ---
 
