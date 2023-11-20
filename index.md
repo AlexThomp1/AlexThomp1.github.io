@@ -55,6 +55,7 @@ Presentations
 
 - **Class: CSCI 431 (Operating Systems)** 
 - **Grade: 100**
+- **Note: Collaborative Presentation w/ Nate Mixon**
 
 
 ### [Johnathan James aka c0mrade](/pdf/cyber_presentation.pdf)
