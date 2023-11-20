@@ -24,12 +24,12 @@ Option 1:
 
 - Install [Perl](https://www.perl.org/get.html).
 ```bash
-perl GuessingGame.pl
+perl guessing_game.pl
 ```
 
 Option 2:
 - Use any online Perl compiler ([Like this one](https://www.tutorialspoint.com/execute_perl_online.php))
-- Open GuessingGame.pl through the site or open the file and paste the code into the compiler.
+- Open "guessing_game.pl" through the site or open the file and paste the code into the compiler.
 - Execute the code.
 
 ## UI Design
