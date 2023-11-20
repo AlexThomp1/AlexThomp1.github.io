@@ -1,46 +1,47 @@
 [Back to Portfolio](./)
 
-Project 2
+Balanced Binary Tree Performance Display
 ===============
 
--   **Class: CSCI 325 (Object Oriented Programming)** 
--   **Grade:** 
--   **Language(s): Java** 
+-   **Class: CSCI 315 (Data Structures)** 
+-   **Grade: 100** 
+-   **Language(s): C++** 
 -   **Source Code Repository:** [Link to Respository](https://github.com/AlexThomp1/CoffeeInventoryManager)  
     (Please [email me](mailto:amthompson1@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-The project involved creating a program with a team using a UI with the Java programming language.
-The program created is a "Coffee Inventory Manager", which is a management systems used for coffee inventory warehouses to keep track of coffee types, keep track of customers, and ship/bill customers for the coffee.
+The project involved creating a program that displays the performance of the algorithms "inserting", "removing in ascending order", and "removing in descending order" of two different Balanced Binary Trees, a Treap and a Splay. 
+
+The program will output a .pdf file that shows two graph lines comparing the time to the size of the tree of each of the algorithms. 
+
+The purpose of the program is to give a visual representation of which tree would be a more efficient balanced binary tree depending on the size of the tree and certain operations needed to be performed.
+
 This program includes the features of:
-- Adding Coffee Types
-- Editing Coffee Types
-- Removing Coffee Types
-- Adding Customers
-- Editing Customers
-- Removing Customers
-- Billing Customers
-- Shipping Coffee
-- Simple Password Protection for Program
+- Creation of Treap Balanced Binary Tree
+- Creation of Splay Balanced Binary Tree
+- Different algorithms for each tree to test
+- Visual Output of a Performance Comparison to a PDF file
+
+This program is currently compiled for Linux systems only.
 
 ## How to compile and run the program
 
-How to run the program.
+How to run the program (Linux):
 
+Make sure "make" is installed.
 ```bash
-Have the latest Java version installed
-Double-click "CoffeeInventoryManager.jar"
+cd BinaryTreeCompare
+make
 ```
 
 ## UI Design
 
-The program after launch asks the user to enter a password (see Fig 1.), and once the correct password is entered, a menu of options are displayed (see Fig 2.). The user types one of the options displayed, which is usually done from top to bottom. 
-If the user types "Add Customer", they are prompted to enter the customer name (see Fig 3.). If the user types "Add Coffee", they are prompted to enter the customer name (see Fig 4.) and other information asked related to the coffee. 
-If the user types "Edit Customer", they are prompted with options to edit the customer's name and remove the customer (see Fig 5.). 
-If the user types "Edit Coffee", they are able to choose which attribute of the coffee they want to edit (see Fig 6.). 
-If the user types "Ship Coffee", they are able to type the customer name and the coffee type with amount to ship (see Fig 7.). 
-If the user types "Bill Customer", they are able to see the details of the coffee they previously shipped (see Fig 8.), and able to "print" the receipt of the shipment (see Fig 9.).
+Once the makefile is ran, the trees will be created and the algorithms will be ran, while outputting time data to a file located in "data". The process of each generation of data is outputted to the terminal (see Fig 1.).
+
+Once all 6 generations are done, the output PDF files are located in "plots", with the plot data (see Fig 2.).
+
+The PDFs will include both algorithms of the same type for the two trees graphed to be compared visually (see Fig 3.).
 
 ![screenshot](images/project1/coffee_password.png)  
 Fig 1. The password screen on launch
@@ -51,26 +52,8 @@ Fig 2. The menu of options the user can type
 ![screenshot](images/project1/coffee_addcust.png)  
 Fig 3. The "Add Customer" option asking for the customer name
 
-![screenshot](images/project1/coffee_addcoffee.png)  
-Fig 4. The "Add Coffee" option asking for the customer name
-
-![screenshot](images/project1/coffee_edit1.png)  
-Fig 5. The "Edit Customer" option asking for the user to type "Edit Customer Name" or "Remove Customer"
-
-![screenshot](images/project1/coffee_edit3.png)  
-Fig 6. The "Edit Coffee" option showing the avaliable attributes to edit
-
-![screenshot](images/project1/coffee_ship.png)  
-Fig 7. The "Ship Coffee" option asking for the customer name
-
-![screenshot](images/project1/coffee_bill.png)  
-Fig 8. The "Bill Customer" option showing the total weight of the coffee shipment for the customer
-
-![screenshot](images/project1/coffee_reciept.png)  
-Fig 9. The "Bill Customer" option giving the receipt of the shipment
-
 ## 3. Additional Considerations
 
-This project was a collaborative group project with Alex Thompson, Samuel Shelley, Tanner Hicks, and Kyle Gimple. The parts I was tasked to work on is the Customer class, Edit Customer functionalities, and combining all of the seperate code into a final product.
+This program does not have any single executable, but rather needs all the source files together in order to run properly. The program uses "Cross-Desktop Group" to output PDF files once compiled inside of Linux, but is not needed to generate the PDF files.
 
 [Back to Portfolio](./)
