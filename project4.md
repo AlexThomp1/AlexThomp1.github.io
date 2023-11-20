@@ -6,7 +6,7 @@ Shortest Path Algorithm from Input File
 -   **Class: CSCI 415 (Algorithms)** 
 -   **Grade: 100** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [Link to Respository](https://github.com/AlexThomp1/GuessingGamePerl)  
+-   **Source Code Repository:** [Link to Respository](https://github.com/AlexThomp1/ShortestPathAlgo)  
     (Please [email me](mailto:amthompson1@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
