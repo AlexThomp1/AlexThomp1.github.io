@@ -43,14 +43,14 @@ Once all 6 generations are done, the output PDF files are located in "plots", wi
 
 The PDFs will include both algorithms of the same type for the two trees graphed to be compared visually (see Fig 3.).
 
-![screenshot](images/project1/coffee_password.png)  
-Fig 1. The password screen on launch
+![screenshot](images/project2/project2_terminal.png)  
+Fig 1. The terminal output after running the "make" file that is showing the generation of the plots and pdfs.
 
-![screenshot](images/project1/coffee_menmu.png)  
-Fig 2. The menu of options the user can type
+![screenshot](images/project2/project2_files.png)  
+Fig 2. The files the "make" file outputted, which includes the PDF files of the graphs.
 
-![screenshot](images/project1/coffee_addcust.png)  
-Fig 3. The "Add Customer" option asking for the customer name
+![screenshot](images/project2/project2_graphs.png)  
+Fig 3. All 3 graphs that can be outputted through the program.
 
 ## 3. Additional Considerations
 
