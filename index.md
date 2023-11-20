@@ -22,7 +22,7 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/project3/project3_start.png)
 
 ---
-### [Shortest Path Algorithm from Input File (C++) | CSCI 415](project1)
+### [Shortest Path Algorithm from Input File (C++) | CSCI 415](project4)
 
 ![Project 4 Thumbnail Name](images/project4/project4_display.png)
 
