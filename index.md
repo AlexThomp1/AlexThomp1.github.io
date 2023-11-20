@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Random Number Guessing Game (Perl) | CSCI 301](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/project3/project3_start.png)
 
 ---
 ### [Shortest Path Algorithm from Input File (C++) | CSCI 415](project1)
