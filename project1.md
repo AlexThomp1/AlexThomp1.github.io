@@ -36,10 +36,15 @@ Double-click "CoffeeInventoryManager.jar"
 ## UI Design
 
 The program after launch asks the user to enter a password (see Fig 1.), and once the correct password is entered, a menu of options are displayed (see Fig 2.). The user types one of the options displayed, which is usually done from top to bottom. 
+
 If the user types "Add Customer", they are prompted to enter the customer name (see Fig 3.). If the user types "Add Coffee", they are prompted to enter the customer name (see Fig 4.) and other information asked related to the coffee. 
+
 If the user types "Edit Customer", they are prompted with options to edit the customer's name and remove the customer (see Fig 5.). 
+
 If the user types "Edit Coffee", they are able to choose which attribute of the coffee they want to edit (see Fig 6.). 
+
 If the user types "Ship Coffee", they are able to type the customer name and the coffee type with amount to ship (see Fig 7.). 
+
 If the user types "Bill Customer", they are able to see the details of the coffee they previously shipped (see Fig 8.), and able to "print" the receipt of the shipment (see Fig 9.).
 
 ![screenshot](images/project1/coffee_password.png)  
