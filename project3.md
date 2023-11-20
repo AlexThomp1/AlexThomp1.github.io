@@ -23,6 +23,7 @@ This program includes the features of:
 Option 1:
 
 - Install [Perl](https://www.perl.org/get.html).
+- Type the following into a terminal in the location of the file:
 ```bash
 perl guessing_game.pl
 ```
