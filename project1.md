@@ -12,7 +12,7 @@ Coffee Inventory Manager
 ## Project description
 
 The project involved creating a program with a team using a UI with the Java programming language.
-The program created is a "Coffee Inventory Manager", which is a management systems used for coffee inventory warehouses to keep track of coffee types, keep track of customers, and ship/bill customers for the coffee.
+The program created is a "Coffee Inventory Manager", which is a management system used for coffee inventory warehouses to keep track of coffee types, keep track of customers, and ship/bill customers for the coffee.
 
 This program includes the features of:
 - Adding Coffee Types
