@@ -9,22 +9,22 @@ Programming Projects
 ---
 ### [Coffee Inventory Manager (Java) | CSCI 325](project1)
 
-![Project 1 Thumbnail Name](images/project1/coffee_menmu.png)
+![Coffee Inventory Manager](images/project1/coffee_menmu.png)
 
 ---
 ### [Balanced Binary Tree Performance Display (C++) | CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/project2/project2_graphs.png)
+![Balanced Binary Tree Performance Display](images/project2/project2_graphs.png)
 
 ---
 ### [Random Number Guessing Game (Perl) | CSCI 301](project3)
 
-![Project 3 Thumbnail Name](images/project3/project3_start.png)
+![Random Number Guessing Game](images/project3/project3_start.png)
 
 ---
 ### [Shortest Path Algorithm from Input File (C++) | CSCI 415](project4)
 
-![Project 4 Thumbnail Name](images/project4/project4_display.png)
+![Shortest Path Algorithm from Input File](images/project4/project4_display.png)
 
 ---
 
