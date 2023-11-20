@@ -57,10 +57,10 @@ Presentations
 - **Grade: 100**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Johnathan James aka c0mrade](/pdf/cyber_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 405 (Principles of Cybersecurity)** 
+- **Grade: 100**
 
 ---
 
