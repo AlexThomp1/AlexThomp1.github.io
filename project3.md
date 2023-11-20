@@ -6,7 +6,7 @@ Random Number Guessing Game
 -   **Class: CSCI 301 (Survey of Scripting Languages)** 
 -   **Grade: 100** 
 -   **Language(s): Perl** 
--   **Source Code Repository:** [Link to Respository](https://github.com/AlexThomp1/BalancedBinaryTreeDisplay)  
+-   **Source Code Repository:** [Link to Respository](https://github.com/AlexThomp1/GuessingGamePerl)  
     (Please [email me](mailto:amthompson1@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
