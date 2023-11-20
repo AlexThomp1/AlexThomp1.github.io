@@ -34,12 +34,12 @@ Ethics Papers
 ### [The Horrors of Unreliable Code](/papers/paper1.docx)
 
 -   **Class: CSCI 315 (Data Structures)**  
--   **Grade:**
+-   **Grade: 94.5**
 
 ### [The Ethical Responsibilities of a Professional](/papers/paper2.docx)
 
 -   **Class: CSCI 325 (Object Oriented Programming)** 
--   **Grade:**
+-   **Grade: 100**
 
 ### [The Anonymous Privacy of a Society](/papers/paper3.docx)
 
@@ -54,7 +54,7 @@ Presentations
 ### [Oracle SPARC Solaris Paging](/pdf/paging_presentation.pdf)
 
 - **Class: CSCI 431 (Operating Systems)** 
-- **Grade:**
+- **Grade: 100**
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
