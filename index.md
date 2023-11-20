@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [The Horrors of Unreliable Code](/papers/paper1.docx)
+### [The Horrors of Unreliable Code](/papers/paper1.pdf)
 
 -   **Class: CSCI 315 (Data Structures)**  
 -   **Grade: 94.5**
 
-### [The Ethical Responsibilities of a Professional](/papers/paper2.docx)
+### [The Ethical Responsibilities of a Professional](/papers/paper2.pdf)
 
 -   **Class: CSCI 325 (Object Oriented Programming)** 
 -   **Grade: 100**
 
-### [The Anonymous Privacy of a Society](/papers/paper3.docx)
+### [The Anonymous Privacy of a Society](/papers/paper3.pdf)
 
 -   **Class: CSCI 415 (Algorithms)** 
 -   **Grade: 100**
