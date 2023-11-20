@@ -25,14 +25,10 @@ This program includes the features of:
 - Shipping Coffee
 - Simple Password Protection for Program
 
-## How to compile and run the program
+## How to run the program
 
-How to run the program.
-
-```bash
-Have the latest Java version installed
-Double-click "CoffeeInventoryManager.jar"
-```
+- Have the latest Java version installed
+- Double-click "CoffeeInventoryManager.jar"
 
 ## UI Design
 
