@@ -19,7 +19,7 @@ This program includes the features of:
 - Displays the Adjacency Matrix
 - Displays the shortest path from starting and each vertex
 
-## How to run the program
+## How to run the program (Linux only)
 ```bash
 cd ShortestPath
 ./shortestpath
