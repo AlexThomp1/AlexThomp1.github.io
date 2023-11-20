@@ -36,7 +36,7 @@ Option 2:
 
 The program will welcome the user and give the instructions on how to play the game and use the program. The program will ask the user to input a number between 0 and 100. (see Fig 1.). The user will keep on guessing until the number is correctly guessed.
 
-![screenshot](images/project2/project2_terminal.png)  
+![screenshot](images/project3/project3_start.png)  
 Fig 1. The welcome screen with the instructions when executing the program, and the program asking the user to enter a number.
 
 ## 3. Additional Considerations
